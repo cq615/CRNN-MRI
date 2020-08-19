@@ -19,7 +19,7 @@ Reconstruct dynamic MR images from its undersampled measurements using
 Convolutional Recurrent Neural Networks. This is a pytorch implementation requiring 
 Torch 0.4.  
 
-Usage::
+Usage:
 
   python main_crnn.py --acceleration_factor 4
 
